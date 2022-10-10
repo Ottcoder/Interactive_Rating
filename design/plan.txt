@@ -1,0 +1,10 @@
+We need elements nested in a box
+    Star icon showing
+    Title of the card in white text 
+    The question in light grey 
+    We need the numbers selectable in circles
+        White text
+        Turn orange when hovered over
+        Turn grey when selected
+    Submit button in an orange oval with white text
+        Turn white when selected with orange text
